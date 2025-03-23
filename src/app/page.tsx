@@ -2,7 +2,9 @@
 import { Education } from "@/components/Education";
 import { Exprience } from "@/components/Experience";
 import { Navbar } from "@/components/Navbar";
+import { Projects } from "@/components/Project";
 import { Skills } from "@/components/Skills";
+import {Contact} from "@/components/Contact"
 
 
 export default function Home() {
@@ -12,6 +14,8 @@ export default function Home() {
       <Exprience/>
       <Education/>
       <Skills/>
+      <Projects/>
+      <Contact/>
     </div>
   );
 }
