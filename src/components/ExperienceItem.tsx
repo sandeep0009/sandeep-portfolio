@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { ChevronDown, ChevronRight } from "lucide-react";
+import {  ChevronRight } from "lucide-react";
 
 type ExperienceItemProps = {
   company: string;
