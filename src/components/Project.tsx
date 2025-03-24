@@ -11,8 +11,8 @@ export function Projects(){
             <div className="grid grid-cols-2 gap-20">
 
             {
-                projects.map((item)=>(
-                    <ProjectCard title={item.title} desc={item.desc} textStack={item.textStack} url={item.url} imageUrl={item.imageUrl}/>
+                projects.map((item,index)=>(
+                    <ProjectCard key={index} title={item.title} desc={item.desc} textStack={item.textStack} url={item.url} imageUrl={item.imageUrl}/>
                 ))
             }
             </div>

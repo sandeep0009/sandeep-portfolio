@@ -15,8 +15,8 @@ export const projects=[
             "Typescript"
         ],
         url:[
-            "Website",
-            "source code"
+            "https://expense-tracker-frontend-yawt.vercel.app/",
+            "https://github.com/sandeep0009/expense-tracker-backend"
         ]
     },
 
@@ -35,8 +35,8 @@ export const projects=[
             "Nextauth.js"
         ],
         url:[
-            "Website",
-            "source code"
+            "https://job-portal-672g-no7aixfyx-sandeep0009s-projects.vercel.app/",
+            "https://github.com/sandeep0009/job-portal"
         ]
     },
     
