@@ -5,7 +5,7 @@ export const projects=[
         id:1,
         title:"Pocket Pilot",
         imageUrl:"/images/image.png",
-        desc:"An web application where users can track there expense.",
+        desc:"A web application where users can track their expenses.",
         textStack:[
             "React.js",
             "Node.js",
@@ -24,7 +24,7 @@ export const projects=[
         id:1,
         title:"Job Quest",
         imageUrl:"/images/image2.png",
-        desc:"An web application where users can apply for jobs and new admins can add jobs.Role based login system",
+        desc:"A web application where users can apply for jobs and new admins can add jobs.Role based login system",
         textStack:[
             "Next.js",
             "Node.js",

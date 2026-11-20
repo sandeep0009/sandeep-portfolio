@@ -21,6 +21,14 @@ export const skills=[
     "Prisma",
     "Jira",
     "Css",
-    "Python"
+    "Python",
+    "Bun",
+    "Elysia.js",
+    "BullMQ",
+    "Vercel AI SDK",
+    "AI Agents",
+    "Shopify",
+    "ClickHouse",
+    "Drizzle ORM"
 
 ]
